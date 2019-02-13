@@ -11,6 +11,10 @@
 	border-left: 1px solid #ddd !important;
 }
 
+.lista-redes ul li:last-child {
+	border-right: 1px solid #ddd !important;
+}
+
 .lista-redes i {
 	background-color: black !important;
 }
