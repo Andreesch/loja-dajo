@@ -2,3 +2,15 @@
     border: none !important;
     background-color: inherit !important;
 }
+
+.icon-instagram {
+	background: linear-gradient(145deg,#ffffff00 10%,#ffffff00 70%) no-repeat !important;
+}
+
+.lista-redes ul li {
+	border-left: 1px solid #ddd !important;
+}
+
+.lista-redes i {
+	background-color: black !important;
+}
