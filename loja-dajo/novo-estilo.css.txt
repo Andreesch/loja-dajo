@@ -1,0 +1,4 @@
+.busca {
+    border: none !important;
+    background-color: inherit !important;
+}
